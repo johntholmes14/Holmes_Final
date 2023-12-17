@@ -5,9 +5,9 @@ project:
     port: 3333
 
 website:
-  title: "MUSA 550 Quarto Template"
-  site-url: "https://musa-550-fall-2023.github.io/quarto-website-template" 
-  repo-url: https://github.com/MUSA-550-Fall-2023/quarto-website-template 
+  title: "Holmes MUSA 550 Final Project"
+  site-url: "https://johntholmes14.github.io/Holmes_Final/" 
+  repo-url: https://github.com/johntholmes14/Holmes_Final/
   repo-actions: [source]
 
   page-footer:
