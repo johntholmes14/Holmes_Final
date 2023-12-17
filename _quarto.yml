@@ -12,22 +12,13 @@ website:
 
   page-footer:
     right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
-    left: "&copy; CC-Nick Hand, 2023"
+    left: "&copy; John Holmes, 2023"
 
   sidebar:
     logo: "images/course-icon.png"
     pinned: true
     align: center
-    tools: 
-      - icon: globe
-        href: https://nickhand.dev
-        text: "Personal Website"
-      - icon: github
-        href: https://github.com/MUSA-550-Fall-2023/
-        text: "MUSA 550 GitHub"
-      - icon: twitter
-        href: https://twitter.com/nicholashand
-        text: "Nick Hand Twitter"         
+        
 
     style: "docked"
     search: true
